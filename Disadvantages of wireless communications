@@ -1,0 +1,16 @@
+Disadvantages of Wireless Communication:-
+
+1. Range: The range of wireless network is limited because signals fade and become weaker as they travel through or space.
+          Weak and fading signals must be regenerated using repeaters. Therefore, there is a need to install repeaters at 
+          locations so as to maintain the required signal strength and quality.
+
+2. Speed: Wireless system have lower data transmission rates compared to wired communication systems.
+
+3. Reliability: Although the electromagnetic waves used for wireless transmision can pass through objects lying in their path,
+                these objects can reduce the strength significantly. Bad weather conditions can also have an impact on the 
+                signal transmission.
+
+4. Frequency Planning: There must be a carefully planned distribution of frequencies which must not interfere with each other
+                       when they are being reused. Proper planning or frequency distribution is also required because only a
+                       limited range of frequencies is available and they must be shared among multiple devices to increase 
+                       bandwidth utilization.
